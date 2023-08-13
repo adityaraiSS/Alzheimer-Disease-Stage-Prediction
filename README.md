@@ -18,8 +18,6 @@ git clone https://github.com/adityaraiSS/alzheimers-detection.git
 cd alzheimers-detection
 ### Install the required Python packages:
 
-[Copy code ](pip install -r requirements.txt
-){:target="_blank"}
 Copy code
 pip install -r requirements.txt
 
