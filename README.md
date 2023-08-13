@@ -14,10 +14,12 @@ The dataset used for this project consists of MRI images of brain scans categori
 
 bash
 Copy code
-git clone https://github.com/your-username/alzheimers-detection.git
+git clone https://github.com/adityaraiSS/alzheimers-detection.git
 cd alzheimers-detection
 ### Install the required Python packages:
 
+[Copy code ](pip install -r requirements.txt
+){:target="_blank"}
 Copy code
 pip install -r requirements.txt
 
