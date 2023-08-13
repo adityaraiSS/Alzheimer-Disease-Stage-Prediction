@@ -20,6 +20,7 @@ cd alzheimers-detection
 
 Copy code
 pip install -r requirements.txt
+
 Usage
 Prepare the data: Ensure that the MRI image dataset is appropriately organized in the /data directory.
 
